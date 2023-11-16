@@ -7,11 +7,11 @@ let tl
 let euro
 let yuan
 
-usd = azn / 1.70;
+usd = azn * 0.68;
 rub = azn * 35.92;
 tl = azn * 10.94;
-euro = azn / 1.79; 
-yuan = azn * 4,26
+euro = azn * 0.55; 
+yuan = azn * 4,26;
 
 let pul = azn + '₼ = ' + usd + '$, ' + rub + '₽, ' + tl + 'TL, ' + euro + '€, ' + yuan + '¥, ';
 
